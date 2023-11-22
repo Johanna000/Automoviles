@@ -1,0 +1,32 @@
+{
+    "automoviles": [
+        {
+            "id": 1,
+            "patente": "QQ-WW-77",
+            "marca": "Suzuki",
+            "modelo": "Baleno",
+            "precio": 15000000
+        },
+        {
+            "id": 2,
+            "patente": "AA-SS-88",
+            "marca": "Nissan",
+            "modelo": "Qashqai",
+            "precio": 19000000
+        },
+        {
+            "id": 3,
+            "patente": "ZZ-XX-99",
+            "marca": "Peugeot",
+            "modelo": "3008",
+            "precio": 23000000
+        },
+        {
+            "id": 4,
+            "patente": "FF-GG-55",
+            "marca": "Citroen",
+            "modelo": "C3",
+            "precio": 13000000
+        }
+    ]
+}
